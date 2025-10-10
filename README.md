@@ -1,0 +1,13 @@
+Information-
+
+Name: Proyas Das
+
+Student ID: 0182320012101002
+
+Department: Computer Science and Engineering (CSE)
+
+Course Code: CSE-3212
+
+Course Title: Smartphone Application Development
+
+Instructor: Nargish Jahan

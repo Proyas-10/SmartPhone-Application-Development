@@ -36,7 +36,7 @@ class HomePage extends StatelessWidget {
         actions: [
           IconButton(
             onPressed: () {},
-            icon: const Icon(Icons.search), // 🔍 Added Search icon
+            icon: const Icon(Icons.search),
           ),
           IconButton(
             onPressed: () {},
@@ -119,7 +119,7 @@ class HomePage extends StatelessWidget {
               ),
               const SizedBox(height: 30),
 
-              // 🔍 Search bar
+              // 
               TextField(
                 decoration: InputDecoration(
                   hintText: "Search something...",
@@ -132,7 +132,7 @@ class HomePage extends StatelessWidget {
 
               const SizedBox(height: 30),
 
-              // 🔹 Profile Card
+             
               Card(
                 elevation: 5,
                 shape: RoundedRectangleBorder(
@@ -146,7 +146,7 @@ class HomePage extends StatelessWidget {
 
               const SizedBox(height: 15),
 
-              // 🔹 Meetings Card
+             
               Card(
                 elevation: 5,
                 shape: RoundedRectangleBorder(
@@ -160,7 +160,7 @@ class HomePage extends StatelessWidget {
 
               const SizedBox(height: 15),
 
-              // 🔹 Daily Routine Card
+             
               Card(
                 elevation: 5,
                 shape: RoundedRectangleBorder(
@@ -175,7 +175,7 @@ class HomePage extends StatelessWidget {
 
               const SizedBox(height: 15),
 
-              // 🔹 Contact Info Card
+             
               Card(
                 elevation: 5,
                 shape: RoundedRectangleBorder(

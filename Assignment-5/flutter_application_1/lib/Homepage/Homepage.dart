@@ -158,7 +158,6 @@ class HomePage extends StatelessWidget {
               ),
               const SizedBox(height: 20),
 
-              // ✅ Removed Row/Column here if you want clean layout
 
               const Text(
                 "Leo Messi is the Goat!",

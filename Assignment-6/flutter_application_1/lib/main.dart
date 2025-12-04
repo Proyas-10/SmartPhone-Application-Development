@@ -1,5 +1,6 @@
+
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/Homepage.dart';
+import 'package:flutter_application_1/Profilepage.dart';  
 
 
 void main() {
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark(),
-      home: const HomePage(),
+      home: const ProfilePage(),
     );
   }
 }
